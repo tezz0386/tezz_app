@@ -1,0 +1,16 @@
+{
+  "node_modules/owl.carousel/dist/assets/owl.video.play.png": {
+    "file": "assets/owl.video.play-04360456.png",
+    "src": "node_modules/owl.carousel/dist/assets/owl.video.play.png"
+  },
+  "resources/views/frontend/js/app.js": {
+    "file": "assets/app-bb15b3b5.js",
+    "isEntry": true,
+    "src": "resources/views/frontend/js/app.js"
+  },
+  "resources/views/frontend/sass/app.scss": {
+    "file": "assets/app-2901cdd4.css",
+    "isEntry": true,
+    "src": "resources/views/frontend/sass/app.scss"
+  }
+}
